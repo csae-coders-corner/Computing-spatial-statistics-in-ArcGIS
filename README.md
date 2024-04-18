@@ -1,3 +1,5 @@
+![CC Graphics 2024_Spatialstatistics](https://github.com/csae-coders-corner/Computing-spatial-statistics-in-ArcGIS/assets/148211163/69603a18-1e3e-4543-a4fc-643a62b3465e)
+
 # Computing-spatial-statistics-in-ArcGIS
 ArcGIS is a powerful (albeit oft-temperamental) piece of software, which can be used to do any and all spatial data manipulation. For example, you can use ArcGIS to find the shortest distance between any two cities embedded in a network, to calculate the number of hospitals within a radius around a location, or to join data sets at different underlying geographies. But, to utilize its full power and produce reproducible work, it’s necessary to code in it. You can write scripts to run using ArcGIS with python and ArcGIS’s “arcpy” package. To do this you will first need to download python, I highly recommend using anaconda for this, and an IDE for which I recommend pycharm.
 
